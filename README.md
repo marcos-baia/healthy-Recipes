@@ -11,9 +11,9 @@
 ## healthy Recipes
 
 <p align="center">
-  <img alt="figma da landing page Horror Game" src="./assets/prj-healthy.jpg" width="100%">
+  <a href="https://www.figma.com/file/P2S6OiZn1tUIFWsz0MRB8u/Horror-Game-LP-(Community)?node-id=6-39&t=gngIYtNdisBmFz2x-0"><img alt="Desafios da Jornada do Zero à primeira Vaga" src="./assets/prj - jornada.png" width="100%"></a>
 </p>
 
 <p align="right">
-  <img alt=" link do figma" src="./assets/figma.png">
+  <a href="https://www.figma.com/file/P2S6OiZn1tUIFWsz0MRB8u/Horror-Game-LP-(Community)?node-id=6-39&t=gngIYtNdisBmFz2x-0"><img alt=" link do figma" src="./assets/figma.png"></a>
 </p>
